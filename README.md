@@ -20,4 +20,5 @@ Output:
 Simple Interest is: 100.0
 
 
----
+
+
